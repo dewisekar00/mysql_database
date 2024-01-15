@@ -1,0 +1,24 @@
+File .sql yang dibuat minimal harus berisi syntax untuk:
+Membuat database
+Membuat tabel (semua table harus dibuat)
+Mengisi data ke tabel (minimal 10 data per tabel)
+Mengambil data dari tabel
+Mengubah data di tabel
+Menghapus data di tabel
+
+
+rancangan database sebuah toko online yang menjual berbagai macam barang
+- memiliki minimal 3 tabel.
+- memiliki minimal 4 kolom
+- memiliki relasi.
+- sudah dalam bentuk normalisasi, tidak boleh ada duplikasi data
+- bisa digunakan untuk CRUD standar sebuah online retail website
+- rancangan database, buatlah ERD (Entity Relationship Diagram)
+
+
+
+
+
+
+
+
